@@ -172,7 +172,7 @@ Nâng cấp sang chuỗi thời gian (forecast) và bán giám sát (semi-superv
 | Công nghệ | Mục đích |
 |----------|----------|
 | Python | Ngôn ngữ chính |
-| Pandas | Xử lý dữ liệu transaction |
+| Pandas | Xử lý dữ liệu  |
 | Scikit-learn | Modelling & metrics |
 | Papermill | Chạy pipeline notebook tự động |
 | Matplotlib & Seaborn | Visualization biểu đồ tĩnh |
